@@ -21,7 +21,32 @@
 body{
   background-color: #F4ECF5;
 }
+.btn{
+  float: right;
+  margin-right: 500px;
+  margin-top: 10px;
+}
+.icons{
+  float: right;
+  margin-top: 20px;
+  margin-right: 525px;
+}
+.icons i{
+
+  font-size: 30px;
+}
+.icons a{
+  border-top: #FAFAB0;
+  font-size: 20px;
+  background-color: #111F88;
+  border-radius: 10px;
+  font-style: italic;
+  padding: 10px 20px;
+  color:#E8E9F4;
+  text-decoration: none;
+}
 .me{
+
   border-radius: 5px;
   height: 200px;
   border: #FAFAF7;
@@ -29,15 +54,27 @@ body{
   align-items: center;
 
 }
+.cont{
+  float: right;
+  margin-right: 520px;
+
+}
 hr{
   color: #FFFFFF;
   width: 98px;
   margin-left: 50px;
 }
-h2{
-  font-family: monospace;
+.cont h2{
+  font-family: sans-serif;
   font-size:40px;
   text-decoration: underline;
+  margin-top: 30px;
   text-align: center;
   font-style: normal;
+}
+.cont h3{
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+
 }
