@@ -1,0 +1,30 @@
+.button {
+  background-color: #6C3483;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 16px;
+}
+.button2 {
+  background-color: #3E0D4A;
+  border-radius: 5px;
+  color: #FAE10A;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 16px;
+}
+body{
+  background-color: #F4ECF5;
+}
+h2{
+  font-family: monospace;
+  font-size:40px;
+  text-decoration: underline;
+  text-align: center;
+  font-style: normal;
+}
