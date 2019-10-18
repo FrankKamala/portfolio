@@ -151,11 +151,25 @@ hr{
 }
 .side2-proj{
   border-color: #F4FF98;
-  width: 15%;
+  width: 20%;
   float: left;
-  margin-left: 10%;
-  background-color: #CBA4E0;
+  margin-top: 10%;
+  margin-left: 5%;
+  background-color: #DDF652;
   border-radius: 10px;
+}
+.side2-proj a{
+  
+  font-size: 19px;
+  border-radius: 5px;
+
+  border-top: #FAFAB0;
+  font-size: 20px;
+  background-color: #111F88;
+  font-style: italic;
+  padding: 10px 20px;
+  color:#E8E9F4;
+  text-decoration: none;
 }
 .container p{
     column-count: 2;
