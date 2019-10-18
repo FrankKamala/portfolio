@@ -151,6 +151,8 @@ hr{
 }
 .side2-proj{
   border-color: #F4FF98;
+  padding:50px;
+  /*width:50px; float:left;*/
   width: 15%;
   height:400px;
   float: left;
@@ -184,4 +186,21 @@ hr{
   padding-left: 15px;
   margin-right: auto;
   margin-left: 15%;
+}
+#main{
+  padding:30px;
+  height:500px;
+  /*margin-left: 120px;*/
+}
+#projects{
+  padding:30px;
+   width:700px;
+   height: 100px;
+   float:right;
+}
+#projects h3 {
+  float: left;
+  font-style: italic;
+  font-family: monospace;
+
 }
