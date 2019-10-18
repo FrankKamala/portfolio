@@ -149,6 +149,14 @@ hr{
   font-family: fantasy;
   font-style: italic;
 }
+.side2-proj{
+  border-color: #F4FF98;
+  width: 15%;
+  float: left;
+  margin-left: 10%;
+  background-color: #CBA4E0;
+  border-radius: 10px;
+}
 .container p{
     column-count: 2;
 
