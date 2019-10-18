@@ -127,7 +127,13 @@ hr{
   background-color: #F5F5CE;
   border-radius: 10px;
 }
+.side2{
+  width: 10%;
+  float: left;
+  background-color: #F5F5CE;
+  border-radius: 10px;
 
+}
 .container p{
     column-count: 2;
     rows:4;
