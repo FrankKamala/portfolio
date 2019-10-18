@@ -73,9 +73,11 @@ hr{
   font-style: normal;
 }
 .cont h3{
+
   text-align: center;
-  font-style: italic;
+  font-style: oblique;
   font-weight: bold;
+  font-size:18;
 
 }
 /*---- aboutus ----*/
@@ -84,7 +86,7 @@ hr{
 }
 .about-h2 h2{
 	font-size:2em;
-	color: #333333;
+	color: #057483;
 	font-weight: 900;
 	margin:0;
 	padding:0.5em 0;
