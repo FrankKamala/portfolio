@@ -130,10 +130,12 @@ hr{
 
 .container p{
     column-count: 2;
+    rows:4;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: 15%;
     margin-left: 15%;
+    word-wrap: normal;
 }
 
 .about h4{
