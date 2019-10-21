@@ -19,7 +19,7 @@ This is my portfolio.It basically holds detailed information about me. The web p
 ## Deployed Live Link
 
 ## Set Up
-The project does not require any set up Just
+The project does not require any set up. All you need is a browser to render the html pages 
 
 ## BDD
 The project is a basic web page that holds links to move around the pages and view the contents.
