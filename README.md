@@ -43,4 +43,4 @@ Drop your suggestions via **Email** :<frankkamala@gmail.com>
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2019 Frank Kamala
+Copyright (c) 2019 **Frank Kamala**
