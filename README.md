@@ -38,7 +38,7 @@ The project is a basic web page that holds links to move around the pages and vi
 
 ## Support and contact details
 
-Drop your suggestions via **Email** :[mailto](frankkamala@gmail.com)
+Drop your suggestions via **Email** :<frankkamala@gmail.com>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
