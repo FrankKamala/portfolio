@@ -35,4 +35,7 @@ The project is a basic web page that holds links to move around the pages and vi
 
 ## Known Bugs
  * Issue with responsiveness on mobile devices
- 
+
+## Support and contact details
+
+Drop your suggestions via **Email** :[mailto](frankkamala@gmail.com)
