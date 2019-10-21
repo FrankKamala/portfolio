@@ -6,4 +6,9 @@ Francis Kamala Albert
 
 ### Screenshots
 
+Home Page
 ![image](https://github.com/FrankKamala/portfolio/blob/master/images/screenshots/home.png)
+About Page
+![image](https://github.com/FrankKamala/portfolio/blob/master/images/screenshots/about.png)
+Projects Page
+![image](https://github.com/FrankKamala/portfolio/blob/master/images/screenshots/projects.png)
