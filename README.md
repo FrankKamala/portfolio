@@ -15,3 +15,15 @@ Projects Page
 
 ## Description
 This is my portfolio.It basically holds detailed information about me. The web page contains links to my projects and also background information about my journey in programming and also other interests.
+
+## Deployed Live Link
+
+## Set Up
+The project does not require any set up Just
+
+## BDD
+The project is a basic web page that holds links to move around the pages and view the contents.
+* The web page displays content in each page once the page is opened.
+* The default landing page is the index.html page.
+* Navigation to other pages and back is done though the navigation links at the top of all pages.
+* Pages included are the homepage ,about page and the projects page
