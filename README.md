@@ -17,7 +17,7 @@ Projects Page
 This is my portfolio.It basically holds detailed information about me. The web page contains links to my projects and also background information about my journey in programming and also other interests.
 
 ## Deployed Live Link
-view the web page through  https://frankkamala.github.io/portfolio/
+View the web page through  https://frankkamala.github.io/portfolio/
 
 ## Set Up
 The project does not require any set up. All you need is a browser to render the html pages
