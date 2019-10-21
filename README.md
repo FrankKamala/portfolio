@@ -32,3 +32,7 @@ The project is a basic web page that holds links to move around the pages and vi
 
 * HTML
 * CSS
+
+## Known Bugs
+ * Issue with responsiveness on mobile devices
+ 
